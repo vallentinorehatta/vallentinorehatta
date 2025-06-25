@@ -1,5 +1,4 @@
-![Hello world! (1)](https://github.com/user-attachments/assets/b57878f6-4dea-45a1-800d-708724ca3d95)
-
+![Untitled design](https://github.com/user-attachments/assets/879efbcf-7a4c-425d-87e3-05dbaa143823)
 
 ### About Me
 <hr>
