@@ -28,6 +28,5 @@ My goal is to empower individuals with the knowledge they need to make informed 
 
 <br>
 
-### Get Connected
-<hr>
-<img src="https://skillicons.dev/icons?i=instagram,facebook,youtube,linkedin,gmail" />
+
+
