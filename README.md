@@ -4,6 +4,7 @@
 <hr>
 I am a medical doctor with over 15 years of clinical experience, complemented by a growing expertise in web development over the past two years. 
 
+
 Passionate about integrating technology with healthcare, with a particular interest in the application of machine learning and artificial intelligence to improve diagnostics, treatment planning, and patient outcomes. 
 
 Currently deepening my expertise at the crossroads of medicine and technology, I am actively developing a health education platform designed to enhance public access to trustworthy and easily understandable medical information. 
