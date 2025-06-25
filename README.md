@@ -1,6 +1,3 @@
-
-![Vallentino Rehatta Profile](img/../assets/Hello%20world!%20(1).png)
-
 ### About Me
 <hr>
 I am a medical doctor with over 15 years of clinical experience, complemented by a growing expertise in web development over the past two years. 
