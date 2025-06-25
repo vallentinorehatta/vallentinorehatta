@@ -31,3 +31,4 @@ My goal is to empower individuals with the knowledge they need to make informed 
 
 ### Get Connected
 <hr>
+[![My Skills](https://skillicons.dev/icons?i=instagram, linkedin, facebook, gmail, youtube)](https://skillicons.dev)
