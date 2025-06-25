@@ -1,4 +1,4 @@
-![Untitled design](https://github.com/user-attachments/assets/879efbcf-7a4c-425d-87e3-05dbaa143823)
+![I’m Vallentino Rehatta](https://github.com/user-attachments/assets/50898cf9-33fc-4514-9e76-05c63bfdcf8e)
 
 ### About Me
 <hr>
