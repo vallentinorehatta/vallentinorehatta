@@ -1,4 +1,4 @@
-![I’m Vallentino Rehatta (1)](https://github.com/user-attachments/assets/7921974d-49d9-4520-9d7e-ce4646d39b59)
+![I’m Vallentino Rehatta](https://github.com/user-attachments/assets/80a85367-61de-4196-96bc-55d8a24ddc88)
 
 ### About Me
 <hr>
