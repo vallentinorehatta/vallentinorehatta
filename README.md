@@ -1,5 +1,6 @@
 ![I’m Vallentino Rehatta (2)](https://github.com/user-attachments/assets/00a9e791-7e94-455a-8dbf-88dafb4e2b6f)
 
+
 ### About Me
 <hr>
 I am a medical doctor with over 15 years of clinical experience, complemented by a growing expertise in web development over the past two years. 
