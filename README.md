@@ -1,9 +1,10 @@
-![I’m Vallentino Rehatta (2)](https://github.com/user-attachments/assets/00a9e791-7e94-455a-8dbf-88dafb4e2b6f)
+
+![I’m Vallentino Rehatta](https://github.com/user-attachments/assets/545f6747-b714-48d0-8362-b352d17e08a7)
 
 
 ### About Me
 <hr>
-I am a medical doctor with over 15 years of clinical experience, complemented by a growing expertise in web development over the past two years. 
+I am a medical doctor with over 15 years of clinical experience, complemented by a growing expertise in computer programming over the past two years. 
 
 Passionate about integrating technology with healthcare, with a particular interest in the application of machine learning and artificial intelligence to improve diagnostics, treatment planning, and patient outcomes. 
 
